@@ -1,0 +1,9 @@
+Here is a simple text file 
+changes in feature branch
+update infeature branch
+<<<<<<< HEAD
+here is another new_feature
+changes in main branch
+=======
+updated 
+>>>>>>> new-feature
